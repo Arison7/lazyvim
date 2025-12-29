@@ -1,0 +1,1 @@
+/home/arison/.config/omarchy/current/theme/neovim.lua
